@@ -32,10 +32,7 @@ const Footer = () => {
         transition: '0.6s',
     };
 
-    const iconHoverStyle = {
-        background: '#f60838',
-        color: '#fff',
-    };
+ 
 
     const h5Style = {
         color: '#f60838',
